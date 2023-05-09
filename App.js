@@ -111,5 +111,5 @@ const App = () => {
     </SafeAreaProvider>
   );
 };
-
+//safeareaview 의 deges={['bottom'}속성은 하단만 여백을 준다는 뜻이다.
 export default App;
